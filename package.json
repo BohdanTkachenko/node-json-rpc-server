@@ -1,6 +1,6 @@
 {
   "name": "json-rpc-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Bogdan Tkachenko",
     "email": "bogus.weber@gmail.com"
