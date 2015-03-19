@@ -1,9 +1,9 @@
 {
   "name": "json-rpc-server",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
-    "name": "Bogdan Tkachenko",
-    "email": "bogus.weber@gmail.com"
+    "name": "Bohdan Tkachenko",
+    "email": "bohdan@tkachenko.io"
   },
   "description": "Simple implementation of JSON-RPC 2.0 server-side protocol with middleware support. Needs HTTP or any another server to communicate with clients.",
   "scripts": {
@@ -29,7 +29,7 @@
   "readme": "json-rpc-server\n===============\n\nSimple implementation of JSON-RPC 2.0 server-side protocol with middleware support. Needs HTTP or any another server to communicate with clients.",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/bogus-weber/node-json-rpc-server/issues"
+    "url": "https://github.com/BohdanTkachenko/node-json-rpc-server/issues"
   },
   "dist": {
     "shasum": "f89a49ad97f6cb266572c987ad03729d04ddb65d"
